@@ -1,0 +1,16 @@
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\bin\Debug\net8.0-windows\Dev-Cpp-IDEA.exe
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\bin\Debug\net8.0-windows\Dev-Cpp-IDEA.deps.json
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\bin\Debug\net8.0-windows\Dev-Cpp-IDEA.runtimeconfig.json
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\bin\Debug\net8.0-windows\Dev-Cpp-IDEA.dll
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\bin\Debug\net8.0-windows\Dev-Cpp-IDEA.pdb
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\obj\Debug\net8.0-windows\Dev_Cpp_IDEA.Form1.resources
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\obj\Debug\net8.0-windows\Dev-Cpp-IDEA.csproj.GenerateResource.cache
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\obj\Debug\net8.0-windows\Dev-Cpp-IDEA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\obj\Debug\net8.0-windows\Dev-Cpp-IDEA.AssemblyInfoInputs.cache
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\obj\Debug\net8.0-windows\Dev-Cpp-IDEA.AssemblyInfo.cs
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\obj\Debug\net8.0-windows\Dev-Cpp-IDEA.csproj.CoreCompileInputs.cache
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\obj\Debug\net8.0-windows\Dev-Cpp-IDEA.dll
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\obj\Debug\net8.0-windows\refint\Dev-Cpp-IDEA.dll
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\obj\Debug\net8.0-windows\Dev-Cpp-IDEA.pdb
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\obj\Debug\net8.0-windows\Dev-Cpp-IDEA.genruntimeconfig.cache
+C:\Users\abilov\Desktop\Dev-Cpp-IDEA\Dev-Cpp-IDEA\obj\Debug\net8.0-windows\ref\Dev-Cpp-IDEA.dll
